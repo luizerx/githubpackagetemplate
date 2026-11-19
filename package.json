@@ -1,6 +1,6 @@
 {
   "name": "@luizerx/githubpackagetemplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pacote npm simples para fins de teste",
   "main": "index.js",
   "publishConfig": {
