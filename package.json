@@ -1,5 +1,5 @@
 {
-  "name": "githubpackagetemplate-test",
+  "name": "@luizerx/githubpackagetemplate",
   "version": "1.0.0",
   "description": "Pacote npm simples para fins de teste",
   "main": "index.js",
