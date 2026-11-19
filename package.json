@@ -10,6 +10,5 @@
     "test": "node test.js",
     "publish": "npm publish --ignore-scripts"
   },
-  "private": true,
   "license": "MIT"
 }
